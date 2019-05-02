@@ -32,6 +32,9 @@
     
     
   </dependencies>
+  <properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>
+	</properties>
   <build>
     <finalName>RestJR</finalName>
   </build>
