@@ -1,0 +1,1 @@
+# Sensado Temperatura
