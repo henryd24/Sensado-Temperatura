@@ -15,6 +15,11 @@ import javax.ws.rs.core.MediaType;
  *
  * @author Henry Daniel
  */
+
+/**
+ * 
+ * Esta clase se encarga de exponer un servicio para que el dispositivo movil pueda obtener la temperatura al consumir este servicio
+ */
 @Path("temperature")
 public class TemperaturaResource {
 

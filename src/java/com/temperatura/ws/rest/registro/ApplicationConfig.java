@@ -12,6 +12,11 @@ import javax.ws.rs.core.Application;
  *
  * @author Henry Daniel
  */
+/**
+ * 
+ * Con esta clase exponemos nuestros servicios
+ */
+
 @javax.ws.rs.ApplicationPath("rest")
 public class ApplicationConfig extends Application {
 

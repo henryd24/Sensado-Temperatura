@@ -9,6 +9,11 @@ package com.Telefono;
  *
  * @author Henry Daniel
  */
+
+/**
+ * 
+ * Esta clase se identifica 
+ */
 public class Telefono {
 
     private String nombre;
